@@ -30,3 +30,14 @@
 #view-5 .count-down{
     font-size: 150px;
 }
+#view-7 .social-icons{
+    margin-left: 30px;
+}
+#view-7 .social-icons img{
+    width: 100px;
+}
+#view-7 .social-icons .social-link{
+    position: relative;
+    top: -40px;
+    font-size: 25px;
+}

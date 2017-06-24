@@ -74,4 +74,4 @@ pepperRobo.base = (function($){
 })(jQuery);
 
 pepperRobo.base.init();
-pepperRobo.base.showView(7);
+pepperRobo.base.showView(2);

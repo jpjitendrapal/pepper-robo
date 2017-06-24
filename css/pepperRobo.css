@@ -1,0 +1,32 @@
+.main-heading{
+    display: flex;
+    justify-content: center;
+    margin-top: 18%;
+}
+.index-link{
+    cursor: pointer;
+}
+#view-2 .ct, 
+#view-3 .ct{
+    margin: 12%;
+}
+#view-2 .btn, 
+#view-3 .btn{
+    width: 30%;
+    height: 80px;
+    background-color: #009ee3;
+    border: 1px solid #009ee3;
+    border-radius: 15px;
+    font-size: 40px;
+    color: white;
+    cursor: pointer;
+}
+#view-2 .no-btn,#view-3 .no-btn{
+    background-color: white;
+    color: #009ee3;
+}
+
+#view-4 .count-down,
+#view-5 .count-down{
+    font-size: 150px;
+}
